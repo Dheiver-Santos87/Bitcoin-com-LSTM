@@ -1,1 +1,1 @@
-# bitcoin-com-LSTM
+# Bitcoin-com-LSTM
